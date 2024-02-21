@@ -1,1 +1,9 @@
+git init 
+git status
+git add 
+git commit -m
+git log
+git log --pretty --oneline
+git global user.name 
+git global user.email
 
