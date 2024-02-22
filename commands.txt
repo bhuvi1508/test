@@ -1,3 +1,5 @@
+git commands 
+
 git init 
 git status
 git add 
@@ -10,6 +12,7 @@ git remote -v
 git remote set-url --add origin https://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@github.com/bhuvi1508/test.git 
 git remote set-url --delete origin https://github.com/bhuvi1508/test.git
 git push origin main
+
 
 
 
